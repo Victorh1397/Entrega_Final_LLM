@@ -18,6 +18,7 @@ Retrieval-Augmented Generation (RAG). El proyecto incluye:
 Entrega_Final_LLM/
 ├── .env                    # Variables de entorno (no versionado)
 ├── .gitignore              # Reglas de exclusión de Git
+├── analisis_final.md       # Análisis del proyecto (diseño, decisiones, resultados)
 ├── README.md               # Este archivo
 ├── requirements.txt        # Dependencias del proyecto
 ├── app.py                  # Aplicación web Streamlit (interfaz de chat)
@@ -145,3 +146,7 @@ La interfaz se abrirá en el navegador en `http://localhost:8501`.
 - **PyPDF** — Extracción de texto del PDF
 - **python-dotenv** — Carga de variables de entorno
 - **jsonschema** — Validación de argumentos de herramientas
+
+## Memoria técnica
+
+El archivo `analisis_final.md` en la raíz del proyecto contiene la memoria técnica completa del proyecto: diseño de la solución, decisiones técnicas justificadas, resultados obtenidos, limitaciones identificadas y propuestas de mejora futura.
