@@ -339,3 +339,7 @@ webencodings==0.5.1
     #   tinycss2
 websocket-client==1.9.0
     # via jupyter-server
+
+# --- Dependencias de desarrollo/testing (añadidas para tenerife-chat-web-ui) ---
+pytest
+hypothesis
